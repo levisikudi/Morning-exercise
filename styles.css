@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 5% 15%;
+    background-color:  rgb(250, 243, 227);
+    font-size: 0.9em;
+    font-family: sans-serif;
+}
+
+
+.intro{
+    text-align: center;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 2em;
+    margin-bottom: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: rgb(194, 111, 48);
+    font-size: 0.9em;
+}
+hr{
+    border: 0.5px solid rgb(172, 218, 238);
+    margin-top: 0;
+}
+h1:hover{
+    color: yellowgreen;
+}
